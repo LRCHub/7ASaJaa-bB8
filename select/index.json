@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "パート・オブ・ザ・リスト",
+  "base_artist": "Ne-Yo",
+  "createdAt": "2026-02-07T14:54:37.094481Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Part Of The List",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/pl_01_Part_Of_The_List_Ne-Yo.txt"
+    }
+  ]
+}
